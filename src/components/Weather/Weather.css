@@ -1,0 +1,52 @@
+.primary {
+  width: 700px;
+  border-radius: 20px;
+  background-color: rgb(162, 210, 255);
+  margin: 6em auto;
+}
+
+.top {
+  height: 60px;
+  background-color: #424242;
+  color: whitesmoke;
+  padding: 10px;
+  border-radius: 20px 20px 0 0;
+  font-family: "Ubuntu", sans-serif;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header {
+  color: whitesmoke;
+  margin: 10px 0px 0px 10px;
+  font-size: 25px;
+  border-radius: 20px 20px 0 0;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.temp {
+  padding: 15px;
+  color: rgb(96, 96, 96);
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sunrise-sunset {
+  padding: 15px;
+  color: rgb(96, 96, 96);
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+}
+
+.description {
+  padding: 15px;
+  color: rgb(96, 96, 96);
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
